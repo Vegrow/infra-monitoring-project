@@ -1,0 +1,18 @@
+# Логи
+*.log
+logs/
+log/
+
+# Временные файлы
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Артефакты сборки
+build/
+dist/
+bin/
+# Кэш
+.cache/
+*.cache
